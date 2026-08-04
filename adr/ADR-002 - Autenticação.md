@@ -2,7 +2,7 @@
 
 ## Status
 
-Aceito
+Substituído pelo [ADR-005](./ADR-005%20%E2%80%94%20Autentica%C3%A7%C3%A3o%20Passwordless%20OTP.md)
 
 ## Data
 
