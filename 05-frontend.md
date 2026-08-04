@@ -2,21 +2,25 @@
 
 ## Stack
 
-- React
+- Next.js 15 (App Router)
 - TypeScript
-- Vite
+- shadcn/ui
 
 ---
 
 ## Organização
 
-features/
+app/
 
 components/
 
+components/ui/   ← componentes shadcn gerados
+
+features/
+
 hooks/
 
-pages/
+lib/
 
 services/
 
@@ -28,9 +32,8 @@ utils/
 
 ## Bibliotecas
 
-- React Router
+- shadcn/ui (componentes base)
 - TanStack Query
-- React Hook Form
-- Zod
+- React Hook Form + Zod
 - Recharts
 - Framer Motion

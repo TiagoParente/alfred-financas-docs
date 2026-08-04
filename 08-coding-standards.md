@@ -34,13 +34,17 @@ Laravel Pint
 
 ---
 
-## React
+## Next.js / React
 
 ESLint
 
 Prettier
 
 TypeScript Strict
+
+Componentes shadcn: gerados via CLI (`npx shadcn@latest add`), não editados diretamente em `components/ui/`
+
+App Router: usar Server Components por padrão; Client Components (`"use client"`) apenas quando necessário
 
 ---
 

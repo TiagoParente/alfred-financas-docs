@@ -5,7 +5,7 @@
 O Alfred Finanças foi desenvolvido utilizando arquitetura desacoplada entre Backend e Frontend.
 
 ```
-React
+Next.js
 ↓
 
 API REST
@@ -37,10 +37,9 @@ Redis
 
 ## Frontend
 
-- React
+- Next.js 15 (App Router)
 - TypeScript
-- Vite
-- React Router
+- shadcn/ui
 - TanStack Query
 
 ---
