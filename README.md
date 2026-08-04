@@ -1,3 +1,5 @@
+<img width="1114" height="402" alt="image" src="https://github.com/user-attachments/assets/71284e2a-d002-4d32-a97f-554ad4b92116" />
+
 # Alfred Finanças — Documentação
 
 Bem-vindo ao repositório oficial de documentação do **Alfred Finanças**.
