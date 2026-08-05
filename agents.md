@@ -101,10 +101,11 @@ Documentação:      OpenAPI / Swagger
 ### Entidades principais (tabelas em português)
 
 ```
+bancos                      → cadastro global de instituições financeiras (código COMPE, nome, logo e cor padrão)
 familias                    → grupos familiares
 usuarios                    → usuários da plataforma
 familia_usuario             → pivô (usuário pode estar em várias famílias)
-contas_bancarias            → contas corrente, poupança, reserva/investimento
+contas_bancarias            → contas corrente, poupança, reserva/investimento (vinculadas a um banco opcional)
 cartoes_credito             → cartões com limite, fechamento, vencimento
 movimentacoes               → receitas e despesas (vinculadas a conta ou cartão)
 parcelas                    → parcelas de compras parceladas no cartão
